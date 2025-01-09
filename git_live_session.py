@@ -1,0 +1,6 @@
+student = {
+    "name": "Peter",
+    "grades": []
+}
+
+
